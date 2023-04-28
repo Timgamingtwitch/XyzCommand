@@ -1,0 +1,5 @@
+name: XyzVanillaCMD
+version: "1.0.0"
+author: TimGamingTwitch
+api: [4.0.0]
+main: TimGamingTwitch\XyzVanillaCMD\Loader
